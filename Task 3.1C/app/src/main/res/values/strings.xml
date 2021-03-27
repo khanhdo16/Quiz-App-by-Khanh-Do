@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Quiz App by Khanh Do</string>
+    <string name="sit305_quiz_app">SIT305 Quiz App</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="edit_text_hint">John Doe</string>
+    <string name="start">START</string>
+    <string name="question_detail">Choose the one correct answer below.</string>
+    <string name="your_score">YOUR SCORE:</string>
+    <string-array name="questions">
+        <item>What does SDK stand for?</item>
+        <item>What is a View?</item>
+        <item>What is a Toast?</item>
+        <item>What can happen to MainActivity when SecondActivity started?</item>
+        <item>What is the difference of startActivityForResult compared to startActivity?</item>
+    </string-array>
+    <string-array name="answers">
+        <item>Sudoku</item>
+        <item>Software Development Kit</item>
+        <item>Super Dragon Kamehameha</item>
+        <item>UI components\' building block</item>
+        <item>Beautiful landscape</item>
+        <item>App analytics</item>
+        <item>Sandwich after heating</item>
+        <item>Celebrating glass of wine</item>
+        <item>Feedback alert</item>
+        <item>Paused</item>
+        <item>Stopped</item>
+        <item>Both</item>
+        <item>Returns a value</item>
+        <item>No difference</item>
+        <item>Notify when second activity started</item>
+    </string-array>
+    <string-array name="correct">
+        <item>Software Development Kit</item>
+        <item>UI components\' building block</item>
+        <item>Feedback alert</item>
+        <item>Both</item>
+        <item>Returns a value</item>
+    </string-array>
+</resources>
